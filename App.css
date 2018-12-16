@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  
+}
+
+.root{
+  background: purple;
+}
+
+#title{
+  color: #f9f9f9;
+  font-size: 4.5em;
+}
+
+#buttons{
+  justify-content: center;
+  display: flex;
+  flex: auto;
+
+ }
+
+ button{
+ 	border: #0db69d;
+ 	background-color: #0db69d;
+ }
